@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1609853695 source:/home/pi/asm/final/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+
+1609855623 source:/home/pi/asm/final/drawJuliaSet.s
+
+1607345749 source:/home/pi/asm/test/a/id.s
+
+1607427837 source:/home/pi/asm/test/a/name.s
+
+1609706387 source:/home/pi/asm/final/main2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+
+1607345749 source:/home/pi/asm/final/id.s
+
+1609845429 source:/home/pi/asm/final/name.s
+
